@@ -6,7 +6,7 @@ The data is sourced from the UCI Machine Learning repository and was collected v
 
 **The programming language used is Python, and the libraries used were: Pandas, Seaborn, Matplotlib, and numpy**
 
-[Link to notebook used](TBD)
+[Link to notebook used](https://github.com/shirishswate/Assignment5_1/blob/main/prompt.ipynb)
 
 ## Data Summary
 
